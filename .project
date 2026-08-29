@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>java_basics</name>
+=======
+	<name>consistencyinjava</name>
+>>>>>>> 13428ecb7ea9bfb7d6750b2adf814e5df1cff082
 	<comment></comment>
 	<projects>
 	</projects>
